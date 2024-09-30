@@ -10,7 +10,7 @@
         printf("inserisci il primo valore: ");
         scanf("%f" , &A);
         printf("inserisci il secondo valore: ");
-        scanf("%f" , %B);
+        scanf("%f" , &B);
 
         quadrato = B*B;
         printf("il doppio è: %f" , quadrato);
