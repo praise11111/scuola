@@ -20,8 +20,6 @@ int main(){
     if (num3 > max) {
         max = num3;
     }
-
-    // Trova il minimo
     min = num1;
     if (num2 < min) {
         min = num2;
