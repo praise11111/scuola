@@ -28,8 +28,8 @@ int main(){
         min = num3;
     }
     media = (num1 + num2 + num3) / 3.0;
-    printf("Il numero più grande è: %d\n", max);
-    printf("Il numero più piccolo è: %d\n", min);
-    printf("La media aritmetica è: %.2f\n", media);
+    printf("Il numero più grande è: %d", max);
+    printf("Il numero più piccolo è: %d", min);
+    printf("La media aritmetica è: %.2f", media);
 }
 
